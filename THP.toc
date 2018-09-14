@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: THP
+## Notes: Small Addon Description
+## Author: Your Name
+## Version: 0.0.1
+
+THP.lua
+THP.xml
